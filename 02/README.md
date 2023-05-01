@@ -114,7 +114,7 @@ Dada la naturaleza del cifrado asimétrico, incluso aunque se conozca la clave p
 
 En este vídeo de dos minutos, se muestra cómo funcionan el cifrado simétrico y el asimétrico y cómo estos protegen los documentos de la lectura por parte de personas no autorizadas.
 
-![vídeo](https://www.microsoft.com/es-es/videoplayer/embed/RWNyAM?postJsllMsg=true&autoCaptions=es-es)
+🔗 [Vídeo](https://www.microsoft.com/es-es/videoplayer/embed/RWNyAM?postJsllMsg=true&autoCaptions=es-es)
 
 #### Diferentes tipos de cifrados
 
@@ -166,7 +166,7 @@ Cuando esta última recibe el documento firmado digitalmente, usa el mismo servi
 
 En el siguiente vídeo de dos minutos verá cómo funcionan las firmas digitales y cómo se muestran estas si se ha alterado un documento.
 
-![vídeo](https://www.microsoft.com/es-es/videoplayer/embed/RWNvVP?postJsllMsg=true&autoCaptions=es-es)
+🔗 [Vídeo](https://www.microsoft.com/es-es/videoplayer/embed/RWNvVP?postJsllMsg=true&autoCaptions=es-es)
 
 La firma digital requiere el uso de un servicio de firma digital. Muchas empresas ofrecen esta funcionalidad. Dos de los más populares son DocuSign y Adobe Sign.
 
